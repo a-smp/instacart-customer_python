@@ -1,7 +1,7 @@
 # INSTACART SALES & CUSTOMER ANALYSIS
 
 ## OBJECTIVE
-Identify unique customer profiles within the existing customer base and propose strategies for improved customer segmentation. These strategies will enable the customization of marketing campaigns to effectively target each segment.
+Identify unique customer profiles within the existing customer base, investigate sales behavior across them, and propose strategies for improved customer segmentation. 
 
 ## DATA
 * **The Instacart Online Grocery Shopping Dataset 2017**. Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis?select=aisles.csv). It provides comprehensive information about the orders made in the year 2017, along with accompanying dictionaries that aid in interpreting different variables.
